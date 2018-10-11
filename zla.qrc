@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/zla">
+        <file>Resources/ZLAGraph.csv</file>
+        <file>Resources/ZLA.csv</file>
+        <file>Resources/ZLAGraph_Altitudes.csv</file>
+    </qresource>
+</RCC>
